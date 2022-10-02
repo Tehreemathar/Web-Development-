@@ -1,0 +1,14 @@
+body{
+    background-color:#f4f4f4;
+    color:#555555; 
+
+    font-family:serif;
+    font-size: 15px;
+    font-weight: normal ;
+   
+    /*Same as above */
+   
+    font: normal 16px serif; 
+
+    line-height:1.7em; 
+}
